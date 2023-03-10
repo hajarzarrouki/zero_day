@@ -1,1 +1,1 @@
-zer_day
+vagrant
